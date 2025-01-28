@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>merry-christmas-kids-3</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
     <ru>2c9a922dac9b80ae862fa4ebfc5f1995bc8b71d9935292acdf68261a63287e3b</ru>
@@ -67,12 +67,11 @@
     <tonalities>6</tonalities>
     <video name="20-kids-tv-mer-xmas-3_4.mp4" size="2556354" type="video/mp4" volume="0.563">73748a42e6e85508dc99aecf0030a928e30811bddca2ff07c8fb52aaaac7f01c</video>
     <notes>
-      <note number="1" values="5" ticks="121" durationTicks="29" ppq="96" velocity="0.843"/>
-      <note number="2" values="5" ticks="168" durationTicks="45" ppq="96" velocity="0.739"/>
-      <note number="3" values="6" ticks="219" durationTicks="95" ppq="96" velocity="0.719"/>
-      <note number="4" values="28" ticks="316" durationTicks="93" ppq="96" velocity="0.719"/>
-      <note number="5" values="7" ticks="412" durationTicks="96" ppq="96" velocity="0.719"/>
-      <note number="6" values="18" ticks="508" durationTicks="170" ppq="96" velocity="0.719"/>
+      <note number="1" values="5" ticks="105" durationTicks="93" ppq="96" velocity="0.843"/>
+      <note number="2" values="6" ticks="201" durationTicks="98" ppq="96" velocity="0.739"/>
+      <note number="3" values="28" ticks="298" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="4" values="7" ticks="394" durationTicks="93" ppq="96" velocity="0.719"/>
+      <note number="5" values="18" ticks="489" durationTicks="96" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -127,12 +126,12 @@
     <tonalities>6</tonalities>
     <video name="20-kids-tv-mer-xmas-3_8.mp4" size="2743505" type="video/mp4" volume="0.565">058ffd6f9eb6b17683680a6040ad2432892d2904ba330765c4ee9d2171e7f33b</video>
     <notes>
-      <note number="1" values="5" ticks="55" durationTicks="44" ppq="96" velocity="0.843"/>
-      <note number="2" values="5" ticks="118" durationTicks="34" ppq="96" velocity="0.732"/>
-      <note number="3" values="6" ticks="153" durationTicks="95" ppq="96" velocity="0.717"/>
-      <note number="4" values="28" ticks="250" durationTicks="93" ppq="96" velocity="0.717"/>
-      <note number="5" values="7" ticks="346" durationTicks="96" ppq="96" velocity="0.717"/>
-      <note number="6" values="18" ticks="441" durationTicks="120" ppq="96" velocity="0.717"/>
+      <note number="1" values="5" ticks="71" durationTicks="44" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="134" durationTicks="34" ppq="96" velocity="0.732"/>
+      <note number="3" values="6" ticks="169" durationTicks="95" ppq="96" velocity="0.717"/>
+      <note number="4" values="28" ticks="266" durationTicks="93" ppq="96" velocity="0.717"/>
+      <note number="5" values="7" ticks="362" durationTicks="96" ppq="96" velocity="0.717"/>
+      <note number="6" values="18" ticks="457" durationTicks="120" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
 </level>
