@@ -1,8 +1,9 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+# Фиговый пудинг неси прямо сюда
+<iframe width="315" height="560" src="https://www.youtube.com/embed/5lAMSOk9S-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/UvTjuGab6ys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+# We Wish You A Merry Christmas - Kids TV - Bring us a figgy pudding
 
-# We Wish You A Merry Christmas
 
 Оригинальный текст:
 
@@ -22,7 +23,7 @@ And a happy new year!
 <br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/JjThgho7g_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/h9_GgK9eue4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 # We Wish You A Merry Christmas - Kids TV
 
