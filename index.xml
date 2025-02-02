@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>merry-christmas-kids-3</repo>
-  <version>v1.0.3</version>
-  <next number="1" owner="stolbitsa" repo="merry-christmas-kids"/>
+  <version>v1.0.4</version>
+  <next number="1" owner="stolbitsa" repo="merry-christmas-kids-4"/>
   <readme>
-    <ru>f5fdeac8661e139806fc9b39a318a8b3b75b00d590ebd7d06f7a67f761b45a43</ru>
-    <en>c2253c6d65e66566967393e7eda8c5e9ee1a35e4c77fb42028052bfa303823ed</en>
+    <ru>ebc3c4163818f4fce05452e3ff3371ab9333f971a60f06235c3c823436c767b4</ru>
+    <en>0ec9e0f425b961e4e4f8d0fb5c466179a7f0e30a90ab73f42b3d39465b9ac560</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
